@@ -15,5 +15,5 @@ Details on how to contribute are [here](https://github.com/cockroachdb/cockroach
 CockroachDB contributors use [Google Groups](https://groups.google.com/forum/#!forum/cockroach-db) and IRC to communicate.  Get in touch!
 
 * [cockroach-db@googlegroups.com](https://groups.google.com/forum/#!forum/cockroach-db)
-* `#cockroachdb` on [Freenode](http://freenode.net)
+* `#cockroachdb` on [Freenode](http://freenode.net).  [IRC logs](https://botbot.me/freenode/cockroachdb) are also available.
 
