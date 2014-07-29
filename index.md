@@ -17,3 +17,9 @@ CockroachDB contributors use [Google Groups](https://groups.google.com/forum/#!f
 * [cockroach-db@googlegroups.com](https://groups.google.com/forum/#!forum/cockroach-db)
 * `#cockroachdb` on [Freenode](http://freenode.net).  [IRC logs](https://botbot.me/freenode/cockroachdb) are also available.
 
+### Project statistics
+* On [GitHub](https://github.com/cockroachdb/cockroach/graphs/contributors)
+* On [OpenHub (was Ohloh)](https://www.openhub.net/p/cockroach)
+
+<script type="text/javascript" src="http://www.openhub.net/p/718048/widgets/project_factoids_stats.js"></script>
+
